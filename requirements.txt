@@ -4,4 +4,4 @@ numpy
 scikit-learn
 matplotlib
 tensorboard
-streamlit
+streamlit==1.32.0
